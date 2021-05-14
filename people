@@ -23,3 +23,18 @@ fi
 if [ "$1" = "--version" ] || [ "$1" = "-v" ]; then
    echo "$floflispeopleversion"
 fi
+
+#- init contacts/people folder
+#- wizard add new contact (name/middle/surname, ETH address(es), BTC address(es), ENS name, email(s), address(es), phone(s), IPFS ID, C/Y addresses, chats, social profiles
+#- remove a contact
+#- convert CSV > JSON
+#- command to visualize a contact
+#- command to email a contact
+#- command to send crypto to a contact
+#- command to share crypto address/invoice with a contact
+#- command to call a contact
+#- command to access site/blog of a contact
+#- command to phisically visit a contact (call an app such as Maps and Uber)
+#- command to ping a contact (IPFS, C/Y)
+#- command to chat with a contact
+#- command to visit a social profile of a contact
