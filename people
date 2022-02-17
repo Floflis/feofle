@@ -31,6 +31,8 @@ fi
 
 #- command to visualize a contact
 #- command to email a contact
+#- command to ask for the email of a crypto address
+#- command to ask for the crypto address of a email
 #- command to send crypto to a contact
 #- command to share crypto address/invoice with a contact
 #- command to call a contact
@@ -39,5 +41,7 @@ fi
 #- command to ping a contact (IPFS, C/Y)
 #- command to chat with a contact
 #- command to visit a social profile of a contact
+
 #- convert CSV > JSON
+
 #- leveraging telephony and other apps, attribute call/notification sound to an specific contact
