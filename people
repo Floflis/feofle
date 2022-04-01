@@ -25,7 +25,7 @@ if [ "$1" = "--version" ] || [ "$1" = "-v" ]; then
 fi
 
 #- init contacts/people folder
-#- wizard add new contact (name/middle/surname, ETH address(es), BTC address(es), ENS name, email(s), address(es), phone(s), IPFS ID, C/Y addresses, chats, social profiles
+#- wizard add new contact (name/middle/surname, ETH address(es), BTC address(es), ENS name, email(s), address(es), phone(s), IPFS ID, Y addresses, chats, social profiles
 #- remove a contact
 #- implement Web3Updater and list on UniStore
 
