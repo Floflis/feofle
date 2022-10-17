@@ -1,19 +1,19 @@
 #!/bin/bash
-nm="Floflis People"
+nm="Floflis' Feofle"
 vs="v1"
 
 if [ "$1" = "" ]; then
-   floflispeopleversion="""
+   feofleversion="""
         \e[1;42m $nm \e[0m\e[100m version $vs \e[0m
-        \e[100m Created in 14-05-2021 by Daniell Mesquita \e[0m
+        \e[100m Created in 14-05-2021 by Daniella Mesquita \e[0m
 """
-   echo "$floflispeopleversion"
-   echo "Type 'people --help' (without quotes) to see a list of available commands."
+   echo "$feofleversion"
+   echo "Type 'feofle --help' (without quotes) to see a list of available commands."
 fi
 
 if [ "$1" = "--help" ] || [ "$1" = "-h" ]; then
    echo "        \e[1;42m $nm $vs \e[0m"
-   echo "Use these commands after/together with 'people' command."
+   echo "Use these commands after/together with 'feofle' command."
    echo "Available commands:"
    echo "Information:"
    echo "   --help, -h                  Shows all available commands"
@@ -21,7 +21,7 @@ if [ "$1" = "--help" ] || [ "$1" = "-h" ]; then
 fi
 
 if [ "$1" = "--version" ] || [ "$1" = "-v" ]; then
-   echo "$floflispeopleversion"
+   echo "$feofleversion"
 fi
 
 #- init contacts/people folder
