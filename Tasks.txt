@@ -1,0 +1,28 @@
+- init contacts/people folder in tree/home
+- wizard add new contact (name/middle/surname, ETH address(es), ENS name, IPFS ID, Y addresses)
+
+- command to visualize a contact
+
+- remove a contact
+
+- implement Web3Updater and list on UniStore
+
+- wizard add new contact ( BTC address(es), email(s), address(es), phone(s) )
+
+- wizard add new contact (chats, social profiles)
+
+- command to email a contact
+- command to ask for the email of a crypto address
+- command to ask for the crypto address of a email
+- command to send crypto to a contact
+- command to share crypto address/invoice with a contact
+- command to call a contact
+- command to access site/blog of a contact
+- command to phisically visit a contact (call an app such as Maps and Uber)
+- command to ping a contact (IPFS, Y)
+- command to chat with a contact
+- command to visit a social profile of a contact
+
+- convert CSV > JSON
+
+- leveraging telephony and other apps, attribute call/notification sound to a specific contact
