@@ -9,6 +9,7 @@ if [ "$1" = "" ]; then
 """
    echo "$feofleversion"
    echo "Type 'feofle --help' (without quotes) to see a list of available commands."
+   echo "NOTE: Feofle is not ready yet!"
 fi
 
 if [ "$1" = "--help" ] || [ "$1" = "-h" ]; then
